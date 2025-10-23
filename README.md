@@ -36,7 +36,9 @@
 
 <h2 align="center"> Programming languages </h2>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HubertG07&layout=compact)
+<div align=center>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HubertG07&layout=compact" alt="top langs" />
+</div>
 
 <br/>
 
