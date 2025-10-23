@@ -1,6 +1,13 @@
-## Hi there 👋
+# Hi there 👋
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HubertG07&layout=compact)
+
+# Programming Languages
+## Learned
+![Static Badge](https://img.shields.io/badge/Python-FFE873?style=for-the-badge&logo=python&labelColor=black)
+
+## Learning
+![Static Badge](https://img.shields.io/badge/C%2B%2B-0dafdb?style=for-the-badge&logo=c%2B%2B&labelColor=black)
 
 
 <!--
